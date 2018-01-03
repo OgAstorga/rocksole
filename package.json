@@ -1,0 +1,14 @@
+{
+  "name": "rocksole",
+  "version": "0.2.0",
+  "description": "Experimental pentest tool, DO NOT USE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Og Astorga",
+  "license": "ISC",
+  "dependencies": {
+    "node-machine-id": "^1.1.9"
+  }
+}
